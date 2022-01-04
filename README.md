@@ -9,6 +9,7 @@
 - Toshiba XG5 256GB NVMe SSD (works also without NVMeFix.kext)
 - ALPS I2C HID Touchpad (ALP000D:00 044E:120C)
 - 1920x1080@60Hz 14" Display
+- HD Audio Codec Conexant CX20724
 - Intel Wireless-AC 8265
 - Snapdragon X5 LTE Modem
 
