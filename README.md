@@ -42,20 +42,20 @@
 
 ## BIOS v1.52 Settings
 ###### Security
-** TPM Embedded Security **
+**TPM Embedded Security**
 - TPM State -> Unchecked
 
 ###### Advanced
-** Boot Options **
+**Boot Options**
 - Fast Boot -> Unchecked
 - CD-ROM Boot -> Unchecked
 
-** Secure Boot Configuration **
+**Secure Boot Configuration**
 - Configure Legacy Support and Secure Boot -> Legacy Support Disable and Secure Boot Disable
 
-** Built-In Device Options **
+**Built-In Device Options**
 - Wake On LAN -> Disabled
 - Video memory size -> 128 MB
 
-** Power Management Options **
+**Power Management Options**
 - Wake on USB -> Unckecked
